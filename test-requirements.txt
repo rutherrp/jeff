@@ -1,0 +1,7 @@
+coverage>=4.0a6
+flake8
+gitpython==1.0.1
+nose
+pylint
+requests[security]>=2.7.0
+mock
